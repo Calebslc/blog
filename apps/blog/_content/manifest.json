@@ -1,9 +1,5 @@
 {"posts":[
-    {"title":"Comet land guide","date":"2022-03-26","slug":"how-to-start"},
-    {"title":"Markdown Examples","date":"2022-03-01","slug":"markdown"},
-    {"title":"Support KBar","date":"2022-02-28","slug":"kbar-support"},
-    {"title":"Foo","date":"2022-01-01","slug":"foo"},
     {"title":"The Evolution of Artificial Intelligence A: A Brief History","date":"2023-9-20","slug":"A-Brief-History"}
     ], 
-    "categories":["AI","Foo","Guide"]
+    "categories":["AI"]
 }

@@ -1,8 +1,8 @@
 ---
 title: 'The Evolution of Artificial Intelligence: A Brief History'
 subtitle: 'Tracing the lineage of AI from its inception to the present day'
-date: 2023-09-21 10:30:00
-category: 'AI Insights'
+date: 2023-09-20 10:30:00
+category: 'AI'
 ---
 
 ## A Journey Through Time: AI's Humble Beginnings
