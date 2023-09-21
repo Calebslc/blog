@@ -14,7 +14,6 @@ function AuthorSection({ marginBottom = '3.5rem', hasKbarButton = false }: Props
   return (
     <Section style={{ marginBottom }}>
       <Div>
-        <Avatar src={authorImage.default.src} alt={authorName} text={authorName} size="xl" />
         <TextWrapper>
           <H2>
             Crafted with passion in AK

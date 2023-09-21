@@ -1,11 +1,10 @@
 import { githubUrl } from '../SocialMedia';
 
 // using both app's footer
-export const authorName = 'Caleb Forestal';
+export const authorName = 'Relix';
 
 // Write ever you want :D, default is github
-// 직접 작성해주셔도 좋습니다. 기본적으로 깃허브 주소를 사용합니다.
-export const defaultUrl = 'https://alyeska.dev';
+export const defaultUrl = 'https://relix.ai';
 
 // using both app's favicon
 export * as favicon from './favicon.ico';
