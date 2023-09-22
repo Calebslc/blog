@@ -60,8 +60,8 @@ pushActionWhenValid(relixUrl, {
   subtitle: getSocialMediaId(relixUrl),
   section: 'Social',
   shortcut: [],
-  keywords: 'contact, hire, job',
-  icon: '',
+  keywords: 'terminal, cli, secret, linux, unix',
+  icon: 'Link',
   perform: () => openExternalLink(relixUrl),
 });
 
