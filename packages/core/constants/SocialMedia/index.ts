@@ -1,5 +1,4 @@
-// Please do not write '/' at last
-// 마지막에 '/'를 빼주세요!
+// Please do not write '/' at end
 
 export const githubUrl = 'https://github.com/calebslc';
 
