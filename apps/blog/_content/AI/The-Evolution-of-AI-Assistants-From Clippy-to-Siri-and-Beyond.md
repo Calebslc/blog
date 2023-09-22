@@ -1,7 +1,7 @@
 ---
 title: 'The Evolution of AI Assistants: From Clippy to Siri and Beyond'
 subtitle: 'Tracing the Journey of AI Assistants Through Time'
-date: 2023-09-21
+date: 2023-09-21 19:30:00
 category: 'AI'
 ---
 
