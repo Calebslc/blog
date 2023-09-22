@@ -39,12 +39,12 @@ function generateKbarAction(router: NextRouter) {
   const kbarActions: IconActionType[] = [...routePostActions, ...routeCategoryActions, rssFeedAction, ...socialActions];
 
   const resumeAction: IconActionType = {
-    id: 'resume',
-    name: 'Resume',
+    id: 'relix',
+    name: 'Relix',
     subtitle: resumeUrl,
     section: 'Social',
     shortcut: [],
-    keywords: 'contact, hire, job',
+    keywords: 'contact, hire, job, homepage',
     icon: 'Info',
     perform: () => openExternalLink(resumeUrl),
   };
