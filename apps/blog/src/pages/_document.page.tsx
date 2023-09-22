@@ -22,7 +22,7 @@ export default class BlogDocument extends Document {
           <meta property="og:type" content="blog" />
           <meta property="og:locale" content="ko_KR" />
           <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
-          <meta name="keywords" content="blog,development,developer,frontend" />
+          <meta name="keywords" content="blog,development,developer,AI" />
           {/* for korean keywords */}
           {/* <meta name="keywords" content="blog,development,developer,frontend,블로그,개발,개발자,프론트엔드" /> */}
           <meta name="twitter:creator" content={authorName} />
