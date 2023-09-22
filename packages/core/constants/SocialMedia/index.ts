@@ -8,6 +8,6 @@ export const facebookUrl = 'https://www.facebook.com';
 
 export const linkedInUrl = 'https://www.linkedin.com/in/caleb-forestal-67b675278';
 
-export const twitterUrl = '';
+export const twitterUrl = 'https://twitter.com';
 
-export const relixUrl = 'https://terminal.relix.ai'
+export const relixUrl = 'https://terminal.relix.ai';
