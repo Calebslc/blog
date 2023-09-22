@@ -13,7 +13,7 @@ interface Props {
 function SEO({ title, description, ogImage }: Props) {
   const router = useRouter();
 
-  const TITLE = title ? `${title} - ${authorName}` : `${blogName} - ${authorName}`;
+  const TITLE = title ? `${title} - ${authorName}` : `${blogName}`;
   const DESCRIPTION = description ? description : blogDescription;
   const URL = blogUrl + router.asPath;
   const IMAGE = ogImage ? ogImage : defaultMetaBackground.default.src;
