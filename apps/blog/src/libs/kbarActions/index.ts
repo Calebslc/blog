@@ -36,8 +36,6 @@ function generateKbarAction(router: NextRouter) {
     perform: () => openExternalLink(`${process.env.NEXT_PUBLIC_BASE_PATH ?? ''}/rss.xml`),
   };
 
-  const kbarActions: IconActionType[] = [...routePostActions, ...routeCategoryActions, rssFeedAction, ...socialActions];
-
   const resumeAction: IconActionType = {
     id: 'relix',
     name: 'Relix',
@@ -48,6 +46,8 @@ function generateKbarAction(router: NextRouter) {
     icon: 'Info',
     perform: () => openExternalLink(resumeUrl),
   };
+
+  const kbarActions: IconActionType[] = [...routePostActions, ...routeCategoryActions, rssFeedAction, ...socialActions];
 
   if (typeof resumeUrl === 'string' && resumeUrl.length > 0) {
     kbarActions.push(resumeAction);
