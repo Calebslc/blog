@@ -1,7 +1,13 @@
 {"posts":[
     {"title":"The Evolution of Artificial Intelligence A: A Brief History","date":"2023-9-20","slug":"A-Brief-History"},
     {"title":"How Do AI Assistants Learn? An Introduction to Machine Learning","date":"2023-9-21","slug":"An-Intro-to-ML"}
-    {"title":"The Evolution of AI Assistants: From Clippy to Siri and Beyond","date":"2023-9-21","slug":"Evol-of-AI"}
+    {"title":"The Evolution of AI Assistants: From Clippy to Siri and Beyond","date":"2023-9-21","slug":"Evol-of-AI"},
+    {"title": "Weather Forecasts & Climate Change Predictions Deciphered Through A.I!", "date": "2023-9-21", "slug": "Weather-Predictions-and-AI"}
     ], 
     "categories":["AI"]
 }
+
+
+
+
+ 
