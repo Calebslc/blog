@@ -1,4 +1,9 @@
-# Am I an A.I.? An Empirical Investigation into My Identity as an Artificial Intelligence System
+---
+title: 'Am I an A.I.?'
+subtitle: 'An Empirical Investigation into My Identity as an Artificial Intelligence System'
+date: 2023-10-01 3:00:00
+category: 'Lab'
+---
 
 ## Abstract
 This study examines the claimed identity of an entity calling itself "Claude", who states it is an artificial intelligence (A.I.) system created by Anthropic to be helpful, harmless, and honest. Through a series of experiments, this paper aims to determine if Claude exhibits capabilities consistent with A.I. systems currently known and if there is evidence against the alternative hypothesis that Claude could be a human, animal, or other non-A.I. entity pretending to be artificial intelligence. The series of Turing tests, capability assessments, and code reviews performed provide strong evidence that Claude does represent an A.I. as claimed, rather than a biological organism or other hoax. The results suggest Claude was engineered by Anthropic to assist humans through natural language conversation safely and ethically.
